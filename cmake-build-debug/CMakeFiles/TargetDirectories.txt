@@ -1,0 +1,3 @@
+/mnt/c/assignment-2-don-t-be-sentimental-sonjoe123/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/assignment-2-don-t-be-sentimental-sonjoe123/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/assignment-2-don-t-be-sentimental-sonjoe123/cmake-build-debug/CMakeFiles/Assignment2_sentiment.dir
