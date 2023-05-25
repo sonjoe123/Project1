@@ -183,8 +183,7 @@ Some tweets might have interesting characters in them that aren’t part of the 
 
 ## Time Line 
 
-You have about four weeks to complete the assignment. Start right away! **The lab TA will expect that you already have most of that week's work completed. Come with prepared questions and
-be prepared to answer the TA's questions about your code.**
+
 
 * Week 1: DSString Class and a method to store counters for strings. You should be able
   to represent a set of words with counts. Test with `valgrind` to make sure you do not have 
@@ -218,27 +217,3 @@ Complete this section and commit your changes. Keep your answers short and preci
 5. What was the most challenging part of the assignment?
 
    > Your answer Is to know where to start and how to count the repitition of each word
-
-## Grading Rubric
-
-|                             | Points Possible | Points Awarded |
-| :------------------         | --------------: | -------------: |
-| DSString Class              | 20              |                |
-| Training Algo (+ counters)  | 25              |                |
-| Classification Algo         | 20              |                |
-| Proper Memory Management    | 10              |                |
-| Formatting, Comments, etc.  | 10              |                |
-| Proper use of GitHub        |  5              |                |
-| Answers to questions        | 10              |                |
-| Accuracy/Improvements Bonus | +10             |                |
-
-
-
-
-
-
-
-
-
-
-
