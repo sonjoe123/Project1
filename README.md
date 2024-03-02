@@ -1,4 +1,4 @@
-## My Personal Project: Sentiment Analysis for Tweets
+## Project: Sentiment Analysis for Tweets
 
 ### Introduction
 In this personal project, I aim to build a sentiment classifier for tweets. The goal is to develop a system capable of determining whether a tweet expresses positive or negative sentiment based on its content. To achieve this, I'll leverage machine learning techniques and a dataset of pre-classified tweets.
