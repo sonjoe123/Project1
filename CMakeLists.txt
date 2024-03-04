@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 17)
 
 
 ##########################################
-# Students, edit the items below.  In the quotes,
+#  In the quotes,
 # put the names of the input files as they should appear
 # in the argv param to main.
 # Example:
