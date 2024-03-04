@@ -10,3 +10,4 @@ In this personal project, I aim to build a sentiment classifier for tweets. The 
 4. **Classifier Results Output**: Generate an output file containing the classifier's predictions for the testing dataset.
 5. **Accuracy and Errors Output**: Generate an output file containing the classifier's accuracy and misclassifications.
 
+
